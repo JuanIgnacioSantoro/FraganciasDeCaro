@@ -1,2 +1,2 @@
 # FraganciasDeCaro
-!(Fragancias de Caro)[./img/logo1.png]
+![Fragancias de Caro](./img/logo1.png)
