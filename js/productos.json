@@ -1,0 +1,35 @@
+[
+   
+    {
+        "id": "Adornos-01",
+        "titulo": "Adornos 1",
+        "imagen": "./img/Navidad/1.jpg",
+        "categoria": {
+            "nombre": "Navidad",
+            "id": "navidad"
+        },
+            "precio": "2.000"
+    },
+
+    {
+        "id": "Adornos-02",
+        "titulo": "Adornos 2",
+        "imagen": "./img/Navidad/2.jpg",
+        "categoria": {
+            "nombre": "Navidad",
+            "id": "navidad"
+        },
+            "precio": "3.000" 
+    },
+
+    {
+        "id": "Adornos-03",
+        "titulo": "Adornos 3",
+        "imagen": "./img/Navidad/3.jpg",
+        "categoria": {
+            "nombre": "Navidad",
+            "id": "perfumes"
+        },
+            "precio": "4.000"
+    }
+]
