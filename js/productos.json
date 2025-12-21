@@ -1,5 +1,70 @@
 [
-   
+        {
+        "id": "PerfumesTextiles-01",
+        "titulo": "PerfumesTextiles 1",
+        "imagen": "./img/PerfumesTextiles/1.jpeg",
+        "categoria": {
+            "nombre": "De Pelíluca",
+            "id": "textiles"
+        },
+            "precio": "4.100"
+    },
+
+        {
+        "id": "PerfumesTextiles-02",
+        "titulo": "PerfumesTextiles 2",
+        "imagen": "./img/PerfumesTextiles/2.jpeg",
+        "categoria": {
+            "nombre": "Perfumes textiles",
+            "id": "textiles"
+        },
+            "precio": "4.100"
+    },
+
+        {
+        "id": "Sahumerio-01",
+        "titulo": "Sahumerio 1",
+        "imagen": "./img/Sahumerios/1.jpeg",
+        "categoria": {
+            "nombre": "Aromanza",
+            "id": "sahumerios"
+        },
+            "precio": "4.100"
+    },
+
+    
+        {
+        "id": "Sahumerio-02",
+        "titulo": "Sahumerio 2",
+        "imagen": "./img/Sahumerios/2.jpeg",
+        "categoria": {
+            "nombre": "Aromanza",
+            "id": "sahumerios"
+        },
+            "precio": "4.100"
+    },
+    
+        {
+        "id": "Sahumerio-03",
+        "titulo": "Sahumerio 3",
+        "imagen": "./img/Sahumerios/3.jpeg",
+        "categoria": {
+            "nombre": "Aromanza",
+            "id": "sahumerios"
+        },
+            "precio": "4.100"
+    },
+            {
+        "id": "Promociones-01",
+        "titulo": "Promociones 1",
+        "imagen": "./img/Promociones/1.jpeg",
+        "categoria": {
+            "nombre": "Perfume textil y difusor de pelíluca",
+            "id": "promos"
+        },
+            "precio": "4.100"
+    },
+    
     {
         "id": "Adornos-01",
         "titulo": "Adornos 1",
@@ -8,7 +73,7 @@
             "nombre": "Navidad",
             "id": "navidad"
         },
-            "precio": "2.000"
+            "precio": "1.000"
     },
 
     {
@@ -19,7 +84,7 @@
             "nombre": "Navidad",
             "id": "navidad"
         },
-            "precio": "3.000" 
+            "precio": "2.800" 
     },
 
     {
@@ -28,8 +93,8 @@
         "imagen": "./img/Navidad/3.jpg",
         "categoria": {
             "nombre": "Navidad",
-            "id": "perfumes"
+            "id": "navidad"
         },
-            "precio": "4.000"
+            "precio": "4.400"
     }
 ]
