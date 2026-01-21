@@ -22,6 +22,17 @@
     },
 
         {
+        "id": "PerfumesTextiles-03",
+        "titulo": "PerfumesTextiles 3",
+        "imagen": "./img/PerfumesTextiles/3.jpeg",
+        "categoria": {
+            "nombre": "Perfumes textiles",
+            "id": "textiles"
+        },
+            "precio": "4.100"
+    },
+
+        {
         "id": "Sahumerio-01",
         "titulo": "Sahumerio 1",
         "imagen": "./img/Sahumerios/1.jpeg",
@@ -63,6 +74,17 @@
             "id": "promos"
         },
             "precio": "4.100"
+    },
+
+                {
+        "id": "Promociones-02",
+        "titulo": "Promociones 2",
+        "imagen": "./img/Promociones/2.jpeg",
+        "categoria": {
+            "nombre": "Perfume textil y difusor de pelíluca",
+            "id": "promos"
+        },
+            "precio": "4.500"
     },
     
     {
